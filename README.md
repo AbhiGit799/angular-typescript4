@@ -1,7 +1,7 @@
 # TypeScript Project For Angular PART 4
 
 Hi, <br/>
-This is my Learning Project on Typescript for Angular PART-3 <br/>
+This is my Learning Project on Typescript for Angular PART-4 <br/>
 This project was generated with Angular CLI Angular CLI: 14.0.0. <br/>
 node --version = v14.20.0 <br/>
 npm --version = 6.14.17 <br/>
